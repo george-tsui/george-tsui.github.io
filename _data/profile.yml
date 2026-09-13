@@ -1,17 +1,15 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Wenkai Cui"
+secondary_name: "崔文楷"
+navbar_name: "Wenkai Cui"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Undergraduate Student
+- name: Xi'an Jiaotong University
 
-
-email: "your@email.com"
+email: "15153133697@stu.xjtu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+gscholar: "https://scholar.google.com/citations?user=u92rZq0AAAAJ&hl=en"
+github: george-tsui
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,29 +20,41 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am currently a fourth year undergraduate student from
+    <a href="https://automation.xjtu.edu.cn/" target="_blank">the School of Automation</a>,
+    <a href="https://xjtu.edu.cn" target="_blank">Xi'an Jiaotong University</a>.
+    My research interests include pattern recognition, artificial intelligence, and bioinformatics.
   </p>
+
+  <h2>Related Undergraduate Resources</h2>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    As an undergraduate student from XJTU, I got relatively good exam marks in various courses.
+    As a student about to graduate, I want to share some of the resources online to help more
+    students master these courses more proficiently. Therefore, I created a new repository on
+    GitHub and share my notes and some of the other materials such as project code. All of the
+    resources are open source and free. The only thing worth noting is that these materials are
+    only suitable for students majoring in automation science or majors related to that.
+  </p>
+
+  <h2>Undergraduate Research Projects</h2>
+  <p>
+    I have been a member of <a href="https://www.ai4bread.com/" target="_blank">AI4Bread</a> since
+    Aug. 2024. My undergraduate tutor is Associate Professor
+    <a href="https://gr.xjtu.edu.cn/laiyifu/zh_CN/index.htm" target="_blank">Laiyi Fu</a> in the
+    School of Automation, XJTU. I joined the stCAMBL project and became its primary student
+    researcher. A paper was accepted by
+    <a href="https://academic.oup.com/bib/article/27/3/bbag215/8675954" target="_blank">Briefings in Bioinformatics</a>
+    in May 2026. For more information, please visit the
+    <a href="https://github.com/AI4Bread/stCAMBL" target="_blank">project repository</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Xi'an Jiaotong University
+  logo: /assets/images/badges/xjtu.png
+  position: B.S. in Automation Science and Engineering
+  date: Sept. 2023 - Jun. 2027
 
 # experience:
 # - name: Peking University
@@ -53,9 +63,7 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: University-Level Second-Class Scholarship
+  date: Oct. 2025
+- name: University-Level Third-Class Scholarship
+  date: Oct. 2024

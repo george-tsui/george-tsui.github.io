@@ -1,0 +1,7 @@
+pages:
+- name: 首页
+  url: /zh/
+- name: 论文著作
+  url: /zh/publications.html
+- name: 博客
+  url: /zh/blog.html

@@ -1,0 +1,51 @@
+primary_name: "崔文楷"
+secondary_name: "Wenkai Cui"
+navbar_name: "崔文楷"
+
+positions:
+- name: 本科生
+- name: 西安交通大学
+
+email: "15153133697@stu.xjtu.edu.cn"
+# cv_link: link-to-your-cv-file
+gscholar: "https://scholar.google.com/citations?user=u92rZq0AAAAJ&hl=zh-CN"
+github: george-tsui
+twitter: your_twitter_id
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    现就读于<a href="https://automation.xjtu.edu.cn/" target="_blank">西安交通大学自动化科学与工程学院</a>，
+    大四本科生。研究方向包括模式识别、人工智能和生物信息学。
+  </p>
+
+  <h2>本科资源分享</h2>
+  <p>
+    作为一名即将毕业的本科生，我在各门课程中取得了较好的成绩。为了帮助更多同学更高效地掌握这些课程，
+    我在 GitHub 上创建了一个仓库，分享我的课程笔记和项目代码等学习资料。所有资源均开源免费，
+    仅适合自动化科学及相关专业的同学参考使用。
+  </p>
+
+  <h2>本科科研项目</h2>
+  <p>
+    自 2024 年 8 月起加入 <a href="https://www.ai4bread.com/" target="_blank">AI4Bread</a> 团队。
+    本科导师为西安交通大学自动化学院副教授
+    <a href="https://gr.xjtu.edu.cn/laiyifu/zh_CN/index.htm" target="_blank">付来义</a>。
+    作为 stCAMBL 项目的主要学生研究者，共同撰写的论文于 2026 年 5 月被
+    <a href="https://academic.oup.com/bib/article/27/3/bbag215/8675954" target="_blank">Briefings in Bioinformatics</a> 接收。
+    详情请访问<a href="https://github.com/AI4Bread/stCAMBL" target="_blank">项目仓库</a>。
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+
+education:
+- name: 西安交通大学
+  logo: /assets/images/badges/xjtu.png
+  position: 自动化科学与工程 学士
+  date: 2023.09 - 2027.06
+
+awards:
+- name: 校级二等奖学金
+  date: 2025.10
+- name: 校级三等奖学金
+  date: 2024.10

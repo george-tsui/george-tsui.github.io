@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: 'Acknowledgement'
-date: 2026-03-17
+date: 2026-09-13
 tags:
   - Blog
   - Post

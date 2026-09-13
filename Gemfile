@@ -31,3 +31,8 @@ gem "wdm", "~> 0.2" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+# Ruby 3.4+ compat: base64 was removed from stdlib
+gem "base64"
+gem "bigdecimal"
+gem "mutex_m"
