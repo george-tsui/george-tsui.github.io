@@ -9,8 +9,6 @@ tags:
 ---
 
 
-Thanks to [Yuqing Xie](https://yqxie99.github.io/) and [Kun Chen](https://kwen-chen.github.io/) for the contributions of the blog feature!
-
-## Section 1
+This is the first time that I have ever run my personal page. I want to share some of my understanding of the world, as well as my life attitude. If you have any suggestions, please contact me.
 
 
