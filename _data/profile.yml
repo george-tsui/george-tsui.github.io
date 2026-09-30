@@ -26,6 +26,14 @@ short_bio: >-
     My research interests include pattern recognition, artificial intelligence, and bioinformatics.
   </p>
 
+  <p>
+    I have obtained a direct PhD recommendation from
+    <a href="http://www.ces.zju.edu.cn/" target="_blank">the College of Control Science and Engineering</a>,
+    <a href="https://www.zju.edu.cn" target="_blank">Zhejiang University</a>.
+    My future supervisor is Professor
+    <a href="https://person.zju.edu.cn/chhzhao" target="_blank">Chunhui Zhao</a>.
+  </p>
+
   <h2>Related Undergraduate Resources</h2>
   <p>
     As an undergraduate student from XJTU, I got relatively good exam marks in various courses.
@@ -51,6 +59,10 @@ short_bio: >-
 portrait_url: /assets/images/photos/portrait.jpg
 
 education:
+- name: Zhejiang University
+  logo: /assets/images/badges/zju.png
+  position: Direct PhD (Direct PhD Program), College of Control Science and Engineering
+  date: (Not yet enrolled)
 - name: Xi'an Jiaotong University
   logo: /assets/images/badges/xjtu.png
   position: B.S. in Automation Science and Engineering
@@ -63,6 +75,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: National Scholarship (Expected)
+  date: Oct. 2026
 - name: University-Level Second-Class Scholarship
   date: Oct. 2025
 - name: University-Level Third-Class Scholarship
